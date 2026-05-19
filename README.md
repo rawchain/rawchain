@@ -1,15 +1,27 @@
 <div align="center">
 
 ```
-░██████╗░░░░░░░██╗░░░░░░██╗░░░░░░██████╗██╗░░██╗░█████╗░██╗███╗░░██╗
-██╔══██╗░░░░░░░██║░░░░░░██║░░░░░██╔════╝██║░░██║██╔══██╗██║████╗░██║
-██████╔╝░█████╗██║░░░░░░██║░░░░░██║░░░░░███████║███████║██║██╔██╗██║
-██╔══██╗░╚════╝██║░░░░░░██║░░░░░██║░░░░░██╔══██║██╔══██║██║██║╚████║
-██║░░██║░░░░░░░███████╗░███████╗░╚██████╗██║░░██║██║░░██║██║██║░╚███║
-╚═╝░░╚═╝░░░░░░░╚══════╝░╚══════╝░░╚═════╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝
+01110010 01100001 01110111 01100011 01101000 01100001 01101001 01101110
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=hello%2C+friend.;I+break+things+to+understand+them.;then+build+things+that+matter.;are+you+also+a+one+or+a+zero%3F;stay+curious.+stay+dangerous.;%5Bconnection+encrypted%5D)](https://git.io/typing-svg)
+```
+┃ ░ ▓ ░ ▒ ░ ┃ ░ ▓ ░ ▒ ░ ┃ ░ ▓ ░ ▒ ░ ┃ ░ ▓ ░ ▒ ░ ┃ ░ ▓ ░ ▒ ░ ┃
+```
+
+```
+██████╗  █████╗ ██╗    ██╗ ██████╗██╗  ██╗ █████╗ ██╗███╗   ██╗
+██╔══██╗██╔══██╗██║    ██║██╔════╝██║  ██║██╔══██╗██║████╗  ██║
+██████╔╝███████║██║ █╗ ██║██║     ███████║███████║██║██╔██╗ ██║
+██╔══██╗██╔══██║██║███╗██║██║     ██╔══██║██╔══██║██║██║╚██╗██║
+██║  ██║██║  ██║╚███╔███╔╝╚██████╗██║  ██║██║  ██║██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+```
+
+```
+┃ ░ ▓ ░ ▒ ░ ┃ ░ ▓ ░ ▒ ░ ┃ ░ ▓ ░ ▒ ░ ┃ ░ ▓ ░ ▒ ░ ┃ ░ ▓ ░ ▒ ░ ┃
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=wake+up%2C+rawchain...;the+matrix+has+you.;follow+the+white+rabbit.;knock+knock.;hello%2C+friend.;there+is+no+patch.)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,11 +30,9 @@
 <div align="center">
 
 ```
-[ establishing secure connection... ]
-[ spoofing MAC address............. ]
-[ routing through Mullvad........... ]
-[ identity obfuscated............... ]
-[ you may proceed. ]
+  ║  イ  ロ  ハ  ニ  ホ  ヘ  ト  チ  リ  ヌ  ル  ヲ  ワ  カ  ヨ  タ  レ  ソ  ツ  ネ  ナ  ║
+  ║  ラ  ム  ウ  ヰ  ノ  オ  ク  ヤ  マ  ケ  フ  コ  エ  テ  ア  サ  キ  ユ  メ  ミ  シ  ║
+  ║  ヱ  ヒ  モ  セ  ス  ン  01  10  01  11  00  10  11  01  00  11  01  10  11  00  01  ║
 ```
 
 </div>
@@ -30,92 +40,113 @@
 ---
 
 ```
-> hello, friend.
+> you took the red pill.
+> good. most people don't.
 
-  I'm rawchain. security researcher. builder. I live in terminals
-  and think in packets. I got into this because I wanted to know
-  how things really work — not the polished surface. the pipes.
-  the handshakes. the assumptions nobody checks.
+  the system is bigger than any one target. every device
+  is a door. every handshake is a question. every open port
+  is someone's blind spot.
 
-  most systems trust too much. I find out where.
+  I find the doors. I ask the questions.
+  I walk through the blind spots.
+
+  rawchain. security researcher. builder.
+  I break things to understand them.
+  then I build things that matter.
 ```
 
 ---
 
-### ▓▒░ `active_operations` ░▒▓
+<div align="center">
+
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║  > initialising connection...                        ║
+  ║  > spoofing hardware address...      [MAC RANDOM]    ║
+  ║  > tunnelling through Mullvad...     [ENCRYPTED]     ║
+  ║  > stripping hostname identifier... [OBFUSCATED]     ║
+  ║  > erasing entry point...           [TRACE: NONE]    ║
+  ║                                                      ║
+  ║  identity: [ REDACTED ]                              ║
+  ║  you may now proceed.                                ║
+  ╚══════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-**`/projects/projectzero`** &nbsp;&nbsp;`[DEPLOYED]`
+### `▓▒░ /construct/programs ░▒▓`
+
+---
+
+**`projectzero`** &nbsp;·&nbsp; *the field construct* &nbsp;&nbsp;`[LOADED]`
+
+```
+  ┌─ hardware ──────────────────────────────────────────────┐
+  │  core     Raspberry Pi 3B  —  Kali Linux 32-bit         │
+  │  adapter  BrosTrend AC1200                              │
+  │           ↳ monitor mode enabled                        │
+  │           ↳ packet injection: active                    │
+  │  display  Waveshare 3.5" SPI/GPIO                       │
+  └─ opsec ─────────────────────────────────────────────────┤
+  │  vpn      Mullvad  —  zero logs  —  zero trail          │
+  │  mac      randomised on every boot                      │
+  │  host     obfuscated                                    │
+  │  rule     leave nothing. take everything.               │
+  └─────────────────────────────────────────────────────────┘
+
+  # pocket-sized. field-ready. they'll never see it coming.
+```
+
+---
+
+**`netauditor`** &nbsp;·&nbsp; *the oracle* &nbsp;&nbsp;`[BUILDING]`
 
 ```python
-# portable pentesting platform. fits in a jacket pocket.
-# this is the field unit.
+# she told me I wasn't the one.
+# she was wrong. most networks aren't defended either.
 
-hardware = {
-    "core"     : "Raspberry Pi 3B  —  Kali Linux 32-bit",
-    "adapter"  : "BrosTrend AC1200  —  monitor mode  |  packet injection",
-    "display"  : "Waveshare 3.5\"  SPI/GPIO",
+scanner = {
+    "stack"   : ["Python", "Flask", "nmap"],
+    "targets" : ["SMBs", "schools", "overlooked infrastructure"],
+    "output"  : "HTML audit reports — for the humans who have to fix it",
+    "truth"   : "the gaps are always there. someone just has to look."
 }
 
-opsec = {
-    "vpn"      : "Mullvad  —  no-log  |  no payment trail",
-    "mac"      : "randomised on every boot",
-    "hostname" : "obfuscated",
-    "identity" : "[ REDACTED ]",
-}
-
-# small. quiet. watching.
+# I look.
 ```
 
 ---
 
-**`/projects/netauditor`** &nbsp;&nbsp;`[BUILDING]`
+**`osinttoolkit`** &nbsp;·&nbsp; *ghost protocol* &nbsp;&nbsp;`[IN DESIGN]`
 
 ```python
-# local network vulnerability scanner.
-# built for SMBs and schools — the ones nobody audits.
-# they're always the most exposed.
+# you don't need to touch the system to know everything about it.
+# passive recon. no footprint. no active contact.
+# they never knew you were there.
 
-stack   = ["Python", "Flask", "nmap"]
-output  = "clean HTML reports  —  readable by the people who need to fix it"
-targets = ["open ports", "weak services", "misconfigurations", "trust issues"]
-
-# the scary part? how easy it always is.
-```
-
----
-
-**`/projects/osinttoolkit`** &nbsp;&nbsp;`[PLANNING]`
-
-```python
-# modular OSINT framework for recon and footprinting.
-# passive only. no active contact. they never know you looked.
-
-design  = "plug-in modules — one technique, one file"
-scope   = ["passive recon", "footprinting", "target profiling"]
+modules = ["footprinting", "passive enumeration", "target profiling"]
 stack   = ["Python", "Bash"]
-rule_1  = "leave no trace"
+law_1   = "observe everything"
+law_2   = "interact with nothing"
+law_3   = "know everything before you move"
 ```
 
 ---
 
-### ▓▒░ `stack --verbose` ░▒▓
+### `▓▒░ stack --all ░▒▓`
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00FF41)
 ![Lua](https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=00FF41)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00FF41)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberry-pi&logoColor=00FF41)
 ![macOS](https://img.shields.io/badge/macOS-0d1117?style=flat-square&logo=apple&logoColor=00FF41)
-
-</div>
-<div align="left">
-
-![Nmap](https://img.shields.io/badge/nmap-0d1117?style=flat-square&logoColor=00FF41&color=0d1117)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00FF41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00FF41)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00FF41)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logoColor=00FF41)
@@ -125,33 +156,33 @@ rule_1  = "leave no trace"
 
 ---
 
-### ▓▒░ `cat /etc/field_kit` ░▒▓
+### `▓▒░ cat /construct/loadout ░▒▓`
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  RAWCHAIN FIELD LOADOUT                             │
-├──────────────┬──────────────────────────────────────┤
-│  [primary]   │  Apple M3 MacBook                   │
-│  [field]     │  Raspberry Pi 3B  —  Kali 32-bit    │
-│  [adapter]   │  BrosTrend AC1200                   │
-│              │  ↳ monitor mode + packet injection   │
-│  [display]   │  Waveshare 3.5" SPI/GPIO             │
-│  [vpn]       │  Mullvad                             │
-│              │  ↳ no-log · MAC rnd · host obfusc.  │
-├──────────────┼──────────────────────────────────────┤
-│  [next]      │  Project One                         │
-│              │  ↳ hardware hacking platform         │
-│              │  ↳ [ in design ]                     │
-└──────────────┴──────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════════╗
+  ║  FIELD CONSTRUCT  —  rawchain                           ║
+  ╠══════════════╦═══════════════════════════════════════════╣
+  ║  [primary]   ║  Apple M3 MacBook                        ║
+  ║  [field]     ║  Raspberry Pi 3B  —  Kali Linux 32-bit   ║
+  ║  [adapter]   ║  BrosTrend AC1200                        ║
+  ║              ║  ↳ monitor mode  +  packet injection     ║
+  ║  [display]   ║  Waveshare 3.5"  SPI/GPIO                ║
+  ║  [vpn]       ║  Mullvad                                 ║
+  ║              ║  ↳ no-log · MAC randomised · host hidden ║
+  ╠══════════════╬═══════════════════════════════════════════╣
+  ║  [next]      ║  Project One                             ║
+  ║              ║  ↳ hardware hacking platform             ║
+  ║              ║  ↳ [ in design ]  [ classified ]         ║
+  ╚══════════════╩═══════════════════════════════════════════╝
 ```
 
 ---
 
-### ▓▒░ `git log` ░▒▓
+### `▓▒░ git log ░▒▓`
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=rawchain&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&count_private=true&ring_color=00FF41" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=rawchain&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&count_private=true" />
 <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawchain&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&langs_count=6" />
 
 </div>
@@ -167,16 +198,31 @@ rule_1  = "leave no trace"
 <div align="center">
 
 ```
-  "Give a man a zero-day and he'll have access for a day.
-   Teach a man to find zero-days and he'll never sleep again."
+  ║  ヲ  ワ  カ  01  ラ  10  ウ  11  ノ  00  ク  01  ヤ  10  ケ  11  ║
 ```
 
 ```
-[ connection terminated ]
-[ logs purged           ]
-[ you were never here   ]
+  "I know you're out there.
+   I can feel you now.
+   I know that you're afraid.
+   afraid of us.
+   afraid of change.
+
+   I'm going to show them a world without rules.
+   a world where anything is possible.
+   where we go from there — is a choice I leave to you."
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=rawchain&color=00FF41&style=flat-square&label=ghosts+in+the+machine)
+```
+  ║  10  ヒ  01  モ  11  ス  00  ン  01  10  11  00  01  10  11  00  ║
+```
+
+```
+[ session terminated ]
+[ 0 traces remaining ]
+[ goodbye, mr. anderson ]
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=rawchain&color=00FF41&style=flat-square&label=they+are+watching)
 
 </div>
